@@ -1,2 +1,6 @@
 avocados
+salt 
+pepper
+lime juice
+shrimp
 
